@@ -2,5 +2,5 @@
 
 * [chapter](chapter/subchapter/anotherblank.md)
    * subchapter
-* subchapter2
+* [subchapter2](chapter/subchapter2/readme.md)
 

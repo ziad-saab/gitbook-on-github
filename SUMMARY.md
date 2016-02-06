@@ -1,6 +1,6 @@
 # Summary
 
 * [introduction](introduction.md)
-* [subchapter](chapter/subchapter.md)
+* [chapter](chapter/README.md)
    * chapter
 

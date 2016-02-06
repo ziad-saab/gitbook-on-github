@@ -5,5 +5,5 @@
    * [subchapter](chapter/subchapter/README.md)
    * [subchapter2](chapter/subchapter2/README.md)
 * [chapter2](chapter2/README.md)
-   * another subchapter
+   * [another subchapter](chapter2/another_subchapter/README.md)
 

@@ -1,4 +1,3 @@
 # Summary
 
-* Chapter 1
 

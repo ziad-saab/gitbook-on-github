@@ -1,5 +1,5 @@
 # Summary
 
-* [chapter](chapter/subchapter/anotherblank.md)
-   * subchapter
+* [chapter](chapter/readme.md)
+   * [subchapter](chapter/subchapter/readme.md)
 

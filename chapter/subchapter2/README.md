@@ -1,4 +1,4 @@
-# subchapter 2 testing include-codeblock
+# subchapter 2 testing codesnippet
 
 more contents
 

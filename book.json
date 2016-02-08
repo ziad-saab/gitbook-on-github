@@ -10,7 +10,7 @@
         "github",
         "word-count",
         "splitter",
-        "include-codeblock"
+        "codesnippet"
     ],
     "pluginsConfig": {
         "ga": {

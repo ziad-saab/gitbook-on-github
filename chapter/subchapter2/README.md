@@ -2,4 +2,4 @@
 
 more contents
 
-[include](sample-code.js)
+{% codesnippet "sample-code.js" %}{% endcodesnippet %}

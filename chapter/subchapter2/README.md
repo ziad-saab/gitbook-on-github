@@ -2,4 +2,4 @@
 
 more contents
 
-{% codesnippet "sample-code.js" %}{% endcodesnippet %}
+{% codesnippet "./sample-code.js" %}{% endcodesnippet %}

@@ -1,0 +1,22 @@
+{
+    "plugins": [
+        "youtube",
+        "exercises",
+        "quizzes",
+        "anchors",
+        "expandable-chapters",
+        "toggle-chapters",
+        "ga",
+        "github",
+        "word-count",
+        "splitter"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-5488840-29"
+        },
+        "github": {
+            "url": "https://github.com/jackdougherty/datavizbook"
+        }
+    }
+}

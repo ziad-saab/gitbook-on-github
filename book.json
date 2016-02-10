@@ -20,7 +20,7 @@
         "ga": {
             "token": "UA-XXXXX-XX"
         },
-        {"github": {
+        "github": {
             "url": "https://github.com/JackDougherty?tab=repositories"
         }
     }

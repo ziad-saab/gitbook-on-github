@@ -1,23 +1,27 @@
 {
     "plugins": [
-        "youtube",
-        "exercises",
-        "quizzes",
         "anchors",
+        "edit-link",
+        "exercises",
         "expandable-chapters",
-        "toggle-chapters",
         "ga",
         "github",
-        "word-count",
+        "quizzes",
         "splitter",
-        "codesnippet"
+        "toggle-chapters",
+        "word-count",
+        "youtube"
     ],
     "pluginsConfig": {
+        "edit-link": {
+                "base": "https://github.com/jackdougherty/gitbook-on-github/edit/dev/",
+                "label": "Edit This Page"
+        },
         "ga": {
-            "token": "UA-5488840-29"
+            "token": "UA-XXXXX-XX"
         },
         "github": {
-            "url": "https://github.com/jackdougherty/datavizbook"
+            "url": "https://github.com/jackdougherty/gitbook-on-github"
         }
     }
 }

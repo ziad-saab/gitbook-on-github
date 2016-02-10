@@ -5,6 +5,7 @@
         "exercises",
         "expandable-chapters",
         "ga",
+        "github",
         "quizzes",
         "splitter",
         "toggle-chapters",
@@ -18,6 +19,9 @@
         },
         "ga": {
             "token": "UA-XXXXX-XX"
+        },
+        {"github": {
+            "url": "https://github.com/JackDougherty?tab=repositories"
         }
     }
 }

@@ -1,5 +1,4 @@
-# subchapter 2 testing codesnippet
+# subchapter 2 
 
 more contents
 
-{% codesnippet "./sample-code.js" %}{% endcodesnippet %}

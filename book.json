@@ -15,13 +15,13 @@
     "pluginsConfig": {
         "edit-link": {
                 "base": "https://github.com/jackdougherty/gitbook-on-github/edit/dev/",
-                "label": "Edit This Page"
+                "label": "Edit on GitHub"
         },
         "ga": {
             "token": "UA-XXXXX-XX"
         },
         "github": {
-            "url": "https://github.com/jackdougherty/gitbook-on-github"
+            "url": "https://github.com/jackdougherty/gitbook-on-github/tree/dev"
         }
     }
 }

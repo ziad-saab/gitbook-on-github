@@ -1,12 +1,12 @@
 {
     "plugins": [
-        "anchors-wrapper",
         "atoc",
         "edit-link",
         "exercises",
         "expandable-chapters",
         "ga",
         "github",
+        "heading-anchors",
         "quizzes",
         "splitter",
         "toggle-chapters",

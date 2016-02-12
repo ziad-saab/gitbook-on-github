@@ -1,4 +1,6 @@
-# subchapter 2 
+# subchapter 2 with youtube
 
-more contents
+here's a youtube plugin test
+
+{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
 

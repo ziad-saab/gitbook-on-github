@@ -8,4 +8,5 @@
    * [another subchapter](chapter2/another-subchapter/README.md)
 * [chapter3](chapter3/README.md)
    * [yet another subchapter](chapter3/yet-another-subchapter/README.md)
+* contents
 

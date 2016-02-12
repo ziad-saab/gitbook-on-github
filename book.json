@@ -8,6 +8,7 @@
         "github",
         "heading-anchors",
         "quizzes",
+        "sitemap",
         "splitter",
         "toggle-chapters",
         "word-count",
@@ -27,6 +28,9 @@
         },
         "github": {
             "url": "https://github.com/JackDougherty?tab=repositories"
+        },
+        {"sitemap": {
+            "hostname": "http://YourURLhere.com/"
         }
     }
 }

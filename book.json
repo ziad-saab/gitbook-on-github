@@ -29,7 +29,7 @@
         "github": {
             "url": "https://github.com/JackDougherty?tab=repositories"
         },
-        {"sitemap": {
+        {"sitemap": 
             "hostname": "http://jackdougherty.gitbooks.io/gitbook-on-github/"
         }
     }

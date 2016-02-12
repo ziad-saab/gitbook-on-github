@@ -1,6 +1,7 @@
 {
     "plugins": [
         "anchors",
+        "atoc",
         "edit-link",
         "exercises",
         "expandable-chapters",
@@ -13,6 +14,10 @@
         "youtube"
     ],
     "pluginsConfig": {
+        "atoc": {
+            "addClass": true,
+            "className": "atoc"
+        },
         "edit-link": {
                 "base": "https://github.com/jackdougherty/gitbook-on-github/tree/dev/",
                 "label": "Edit on GitHub"

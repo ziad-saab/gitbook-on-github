@@ -1,0 +1,1 @@
+Here's a footer file - does it automatically appear?

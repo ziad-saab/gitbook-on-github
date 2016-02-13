@@ -1,3 +1,3 @@
-# chapter4
+# Chapter testing footer
 
-testing a lower-case readme.md file
+{% include "./footer.md" %}

@@ -1,3 +1,5 @@
 # Chapter testing footer
 
-test later
+here's the test:
+
+{% include "footer.md" %}

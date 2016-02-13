@@ -9,5 +9,5 @@
    * [another subchapter](chapter2/another-subchapter/README.md)
 * [chapter3 test quiz](chapter3/README.md)
    * [yet another subchapter](chapter3/yet-another-subchapter/README.md)
-* [chapter4](chapter4/readme.md)
+* [chapter4](chapter4/README.md)
 

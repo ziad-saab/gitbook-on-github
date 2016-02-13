@@ -2,4 +2,4 @@
 
 here's the test:
 
-{% include "footer.md" %}
+{% include "./footer.md" %}

@@ -7,7 +7,7 @@
    * [subchapter youtube](chapter/subchapter2/README.md)
 * [Chapter test templating](chapter2/README.md)
    * [another subchapter](chapter2/another-subchapter/README.md)
-* [chapter3 test quiz](chapter3/README.md)
+* [chapter3 quiz](chapter3/README.md)
    * [yet another subchapter](chapter3/yet-another-subchapter/README.md)
 * [chapter4](chapter4/README.md)
 

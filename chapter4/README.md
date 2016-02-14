@@ -1,5 +1,7 @@
 # Chapter exercise
 
+This is not working as of Feb 2016
+
 Exercises format
 
 An exercise is defined by 4 simple parts:

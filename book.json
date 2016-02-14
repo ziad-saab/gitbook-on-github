@@ -25,9 +25,9 @@
         },
         "quiz": {
             "labels": {
-                "showCorrect"       : "Show Answers",   
-                "check"             : "Check Answers",   
-                "showExplanation"   : "Explain Answers",   
+                "check"             : "Check my answers",
+                "showExplanation"   : "Explain", 
+                "showCorrect"       : "Show all",   
                 "explanationHeader" : "Explanation"
             },
             "text": {

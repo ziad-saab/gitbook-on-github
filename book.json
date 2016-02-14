@@ -27,7 +27,7 @@
             "labels": {
                 "showCorrect"       : "",   // default is "Show correct answers"
                 "check"             : "",   // default is "Check"
-                "showExplanation"   : "",   // default is "Show explanation",
+                "showExplanation"   : "",   // default is "Show explanation"
                 "explanationHeader" : "Explanation" // default is ""
             },
             "text": {

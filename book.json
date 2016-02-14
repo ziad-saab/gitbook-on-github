@@ -25,14 +25,14 @@
         },
         "quiz": {
             "labels": {
-                "showCorrect"       : "",   
-                "check"             : "",   
-                "showExplanation"   : "",   
+                "showCorrect"       : "Show Answers",   
+                "check"             : "Check Answers",   
+                "showExplanation"   : "Explain Answers",   
                 "explanationHeader" : "Explanation"
             },
             "text": {
-                "noChosen"    : "",  
-                "incomplete"  : "" 
+                "noChosen"    : "Choose at least one answer",  
+                "incomplete"  : "Some correct answers are missing" 
             },
             "buttons": {
                 "showCorrect"       : true, 

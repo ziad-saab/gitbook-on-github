@@ -1,4 +1,4 @@
-# Chapter test quiz
+# Chapter quiz
 
 <quiz name="Sample quiz title">
     <question multiple>

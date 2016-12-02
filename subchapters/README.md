@@ -1,6 +1,9 @@
 # Subchapters test
 
-plain text
+Contributors test
+
+{% GitHubContributors %}
+{% endGitHubContributors %}
 
 ## Sample h2 header
 

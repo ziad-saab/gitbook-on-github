@@ -1,26 +1,31 @@
 {
-    "plugins": [
-        "heading-anchors",
-        "edit-link",
-        "exercises",
-        "expandable-chapters-small",
-        "ga",
-        "github",
-        "quiz",
-        "splitter",
-        "word-count",
-        "youtube"
-    ],
-    "pluginsConfig": {
-        "edit-link": {
-                "base": "https://github.com/jackdougherty/gitbook-on-github/tree/master/",
-                "label": "Edit on GitHub"
-        },
-        "ga": {
-            "token": "UA-5488840-29"
-        },
-        "github": {
-            "url": "https://github.com/JackDougherty?tab=repositories"
-        }
+  "plugins": [
+    "anchors",
+    "edit-link",
+    "exercises",
+    "expandable-chapters-small",
+    "ga",
+    "github",
+    "githubcontributors",
+    "quiz",
+    "splitter",
+    "word-count",
+    "youtube"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/jackdougherty/gitbook-on-github/tree/master/",
+      "label": "Edit on GitHub"
+    },
+    "ga": {
+      "token": "UA-5488840-29"
+    },
+    "github": {
+      "url": "https://github.com/JackDougherty?tab=repositories"
+    },
+    "githubcontributors": {
+      "githubOwner": "JackDougherty",      // GitHub user name e.g. sta-szek
+      "githubRepository": "gitbook-on-github" // GitHub repo name e.g. pojo-tester
     }
+  }
 }

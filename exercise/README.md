@@ -1,10 +1,6 @@
 # Exercise sample
 
-This is not working as of Feb 2016
-
-Exercises format
-
-An exercise is defined by 4 simple parts:
+Format: An exercise is defined by 4 simple parts:
 
 - Exercise Message/Goals (in markdown/text)
 - Initial code to show to the user, providing a starting point

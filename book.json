@@ -23,22 +23,6 @@
         },
         "github": {
             "url": "https://github.com/JackDougherty?tab=repositories"
-        },
-        "quiz": {
-            "labels": {
-                "check"             : "Check my answers",
-                "showExplanation"   : "Explain", 
-                "showCorrect"       : "Show all",   
-                "explanationHeader" : "Explanation"
-            },
-            "text": {
-                "noChosen"    : "Choose at least one answer",  
-                "incomplete"  : "Some correct answers are missing" 
-            },
-            "buttons": {
-                "showCorrect"       : true, 
-                "showExplanation"   : true 
-            }
         }
     }
 }

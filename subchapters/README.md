@@ -7,3 +7,6 @@ plain text
 here's more text
 
 ### Sample h3 header
+
+{% creativecommons type="by-nc-nd" %}
+{% endcreativecommons %}

@@ -1,5 +1,6 @@
 {
     "plugins": [
+        "anchors",
         "edit-link",
         "exercises",
         "expandable-chapters",
@@ -14,11 +15,11 @@
     ],
     "pluginsConfig": {
         "edit-link": {
-                "base": "https://github.com/jackdougherty/gitbook-on-github/tree/dev/",
+                "base": "https://github.com/jackdougherty/gitbook-on-github/tree/master/",
                 "label": "Edit on GitHub"
         },
         "ga": {
-            "token": "UA-XXXXX-XX"
+            "token": "UA-5488840-29"
         },
         "github": {
             "url": "https://github.com/JackDougherty?tab=repositories"

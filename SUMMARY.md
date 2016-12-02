@@ -2,7 +2,7 @@
 
 * [About the book](README.md)
 * [contents](contents.md)
-* [Header test](chapter/README.md)
+* [Header test](quiz/README.md)
    * [subchapter image](chapter/subchapter/README.md)
    * [subchapter youtube](chapter/subchapter2/README.md)
 * [Chapter templating](chapter2/README.md)

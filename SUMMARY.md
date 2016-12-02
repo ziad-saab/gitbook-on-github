@@ -1,13 +1,9 @@
 # Summary
 
 * [About the book](README.md)
-* [contents](contents.md)
-* [Header test](quiz/README.md)
-   * [subchapter image](chapter/subchapter/README.md)
-   * [subchapter youtube](chapter/subchapter2/README.md)
-* [Chapter templating](chapter2/README.md)
-   * [another subchapter](chapter2/another-subchapter/README.md)
-* [Quiz example](quiz/README.md)
-   * [yet another subchapter](chapter3/yet-another-subchapter/README.md)
-* [Chapter exercise](chapter4/README.md)
-
+* [Subchapters](subchapters/README.md)
+   * [subchapter1](subchapters/subchapter1/README.md)
+   * [subchapter2](subchapters/subchapter2/README.md)
+* [Quiz](quiz/README.md)
+* [Exercise](exercise/README.md)
+* [Youtube](youtube/README.md)

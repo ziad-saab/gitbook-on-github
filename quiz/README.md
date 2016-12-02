@@ -1,4 +1,4 @@
-# Chapter quiz
+# Quiz sample
 
 <quiz name="Gitbook Quiz">
     <question multiple>

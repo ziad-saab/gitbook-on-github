@@ -1,4 +1,4 @@
-# Chapter exercise
+# Exercise sample
 
 This is not working as of Feb 2016
 

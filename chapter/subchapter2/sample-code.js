@@ -1,1 +1,0 @@
-<iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1oZPU_aIvpU2apI0OQ5detnADqgDQf0v7a4OJvl6LKQw/pubchart?oid=1931672306&amp;format=interactive"></iframe>

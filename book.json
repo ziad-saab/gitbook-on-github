@@ -6,7 +6,6 @@
     "expandable-chapters-small",
     "ga",
     "github",
-    "githubcontributors",
     "quiz",
     "splitter",
     "word-count",
@@ -22,10 +21,6 @@
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"
-    },
-    "githubcontributors": {
-      "githubOwner": "JackDougherty",      // GitHub user name e.g. sta-szek
-      "githubRepository": "gitbook-on-github" // GitHub repo name e.g. pojo-tester
     }
   }
 }

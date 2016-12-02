@@ -3,7 +3,8 @@
         "anchors",
         "edit-link",
         "exercises",
-        "expandable-chapters",
+        /*"expandable-chapters",*/
+        "collapsible-chapters",
         "ga",
         "github",
         "heading-anchors",

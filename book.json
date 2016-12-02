@@ -1,12 +1,12 @@
 {
   "plugins": [
     "anchors",
-    "creativecommons",
     "edit-link",
     "exercises",
     "expandable-chapters-small",
     "ga",
     "github",
+    "image-captions",
     "quiz",
     "splitter",
     "word-count",

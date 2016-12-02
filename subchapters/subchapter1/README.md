@@ -2,4 +2,4 @@
 
 Contents with an image below, small change
 
-![](sample-image.png)
+![Caption created with image-captions plugin.](sample-image.png)

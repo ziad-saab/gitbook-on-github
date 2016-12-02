@@ -2,7 +2,7 @@
   "plugins": [
     "anchors",
     "edit-link",
-    "etoc", // https://plugins.gitbook.com/plugin/etoc
+    "etoc",
     "exercises",
     "expandable-chapters-small",
     "ga",

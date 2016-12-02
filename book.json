@@ -1,6 +1,6 @@
 {
     "plugins": [
-        "anchors",
+        "heading-anchors",
         "edit-link",
         "exercises",
         "expandable-chapters-small",

@@ -1,5 +1,7 @@
 # Subchapters test
 
+<!-- toc -->
+
 plain text
 
 ## Sample h2 header

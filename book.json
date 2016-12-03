@@ -29,7 +29,7 @@
       "token": "UA-5488840-29"
     },
     "git-author":{
-      "position": "top",
+      "position": "bottom",
       "modifyTpl": "Last modified by {user} {timeStamp}",
       "createTpl": "Created by {user} {timeStamp}",
       "timeStampFormat": "MMMM Do YYYY"

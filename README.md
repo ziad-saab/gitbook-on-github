@@ -2,6 +2,10 @@
 
 testing gitbook on github
 
-(this is the root README.md file)
+this root README.md file is the front page
 
-{% include "git+https://github.com/JackDougherty/gibook-on-github.git/footer.md#0.0.1" %}
+placeholder video below
+
+{%youtube%}b73LBXYrbng{%endyoutube%}
+
+more text here

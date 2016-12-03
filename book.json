@@ -6,10 +6,10 @@
     "exercises",
     "expandable-chapters-small",
     "ga",
+    "git-author",
     "github",
     "image-captions",
     "quiz",
-    "signature",
     "splitter",
     "toggle-chapters",
     "word-count",
@@ -28,19 +28,11 @@
     "ga": {
       "token": "UA-5488840-29"
     },
-    "gitbook-plugin-signature":{
-      "autoTimeStamp":{
-            "color":"black",
-            "timeStampFormat": "YYYY/MM/DD"
-          },
-          "autoCopyright":{
-             "color":"black",
-             "owner":"Jack Dougherty and contributors",
-             "center":true
-          },
-          "signature":{
-            "key": "customized signature"
-          }
+    "git-author":{
+      "position": "top",
+      "modifyTpl": "Last modified by {user} {timeStamp}",
+      "createTpl": "Created by {user} {timeStamp}",
+      "timeStampFormat": "MMMM Do YYYY"
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"

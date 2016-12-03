@@ -1,16 +1,15 @@
 {
   "plugins": [
     "anchors",
+    "creativecommons@git+https://github.com/JackDougherty/gitbook-plugin-dataviz-footer.git",
     "edit-link",
     "etoc",
     "exercises",
     "expandable-chapters-small",
-    "footer@git+https://github.com/JackDougherty/gitbook-plugin-dataviz-footer.git",
     "ga",
     "github",
     "image-captions",
     "quiz",
-    "sidebar-ad@git+https://github.com/JackDougherty/gitbook-plugin-sidebar-ad.git",
     "splitter",
     "toggle-chapters",
     "word-count",
@@ -31,12 +30,6 @@
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"
-    },
-    "sidebar-ad": {
-      "imageUrl": "https://jackdougherty.github.io/datavizforall/edx-logo.png",
-      "url": "http://edx.org/school/trinityx",
-      "description": "Enroll in our free edX course",
-      "btnText": "Enroll"
     }
   }
 }

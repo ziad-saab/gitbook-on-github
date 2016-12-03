@@ -6,5 +6,5 @@ test of the youtubex plugin
 
 more text
 
-{% footer type="by-nc" %}
+{% footer %}
 {% endfooter %}

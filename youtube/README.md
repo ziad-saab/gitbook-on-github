@@ -1,5 +1,5 @@
 # Youtube sample
 
-here's a youtube plugin test
+test of the youtubex plugin 
 
-{% youtube %}https://www.youtube.com/watch?v=9bZkp7q19f0{% endyoutube %}
+{%youtube%}dQw4w9WgXcQ{%endyoutube%}

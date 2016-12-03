@@ -9,6 +9,7 @@
     "github",
     "image-captions",
     "quiz",
+    "signature",
     "splitter",
     "toggle-chapters",
     "word-count",
@@ -26,6 +27,20 @@
     },
     "ga": {
       "token": "UA-5488840-29"
+    },
+    "gitbook-plugin-signature":{
+      "autoTimeStamp":{
+            "color":"black",
+            "timeStampFormat": "YYYY/MM/DD"
+          },
+          "autoCopyright":{
+             "color":"black",
+             "owner":"Jack Dougherty and contributors",
+             "center":true
+          },
+          "signature":{
+            "key": "customized signature"
+          }
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"

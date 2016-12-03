@@ -4,6 +4,4 @@ test of the youtubex plugin
 
 {%youtube%}0Rnq1NpHdmw{%endyoutube%}
 
-test include footer below
-
-{% include "/layout/footer.md" %}
+{{'key'|signature}}

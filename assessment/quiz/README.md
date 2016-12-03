@@ -41,3 +41,6 @@
         </answer>
     </question>
 </quiz>
+
+{% footer %}
+{% endfooter %}

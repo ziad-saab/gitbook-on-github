@@ -22,3 +22,6 @@ function magicFunc() {
     return 3;
 }
 {% endexercise %}
+
+{% footer %}
+{% endfooter %}

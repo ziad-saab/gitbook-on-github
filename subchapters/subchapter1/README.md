@@ -7,3 +7,6 @@ Contents with an image below, small change
 Here's some plain text
 
 Regular text again
+
+{% footer %}
+{% endfooter %}

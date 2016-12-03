@@ -13,3 +13,6 @@ here's more text
 ### Another h3 header
 
 ## Another h2 header
+
+{% footer %}
+{% endfooter %}

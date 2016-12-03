@@ -8,4 +8,4 @@
 * [Assessment](assessment/README.md)
    * [Quiz](assessment/quiz/README.md)
    * [Exercise](assessment/exercise/README.md)
-* [Free course <img src="https://raw.githubusercontent.com/JackDougherty/gitbook-on-github/master/edx-logo-small.png"](edx.md)
+* [Free course on <img src="https://raw.githubusercontent.com/JackDougherty/gitbook-on-github/master/edx-logo-small.png"](edx.md)

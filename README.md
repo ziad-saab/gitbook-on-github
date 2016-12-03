@@ -4,8 +4,6 @@ testing gitbook on github
 
 this root README.md file is the front page
 
-placeholder video below
+testing include footer code below
 
-{%youtube%}b73LBXYrbng{%endyoutube%}
-
-more text here
+{% include "/footer.md" %}

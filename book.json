@@ -10,6 +10,7 @@
     "github",
     "image-captions",
     "quiz",
+    "sidebar-ad",
     "splitter",
     "toggle-chapters",
     "word-count",
@@ -30,6 +31,12 @@
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"
+    },
+    "sidebar-ad": {
+      "imageUrl": "https://jackdougherty.github.io/datavizforall/edx-logo.png",
+      "url": "http://edx.org/school/trinityx",
+      "description": "Enroll in our free edX course", 
+      "btnText": "Enroll"
     }
   }
 }

@@ -6,4 +6,4 @@ test of the youtubex plugin
 
 test include footer below
 
-{% include "/youtube/footer.md" %}
+{% include "/layout/footer.md" %}

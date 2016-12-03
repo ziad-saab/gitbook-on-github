@@ -1,6 +1,7 @@
 {
   "plugins": [
     "anchors",
+    "creativecommons",
     "edit-link",
     "etoc",
     "exercises",

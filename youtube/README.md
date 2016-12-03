@@ -6,5 +6,5 @@ test of the youtubex plugin
 
 more text
 
-{% creativecommons type="by-nc" %}
-{% endcreativecommons %}
+{% footer type="by-nc" %}
+{% endfooter %}

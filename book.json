@@ -8,6 +8,7 @@
     "expandable-chapters-small",
     "ga",
     "github",
+    "githubcontributors",
     "image-captions",
     "quiz",
     "splitter",
@@ -30,6 +31,9 @@
     },
     "github": {
       "url": "https://github.com/JackDougherty?tab=repositories"
-    }
+    },
+    "githubcontributors": {
+    "githubOwner": "JackDougherty",
+    "githubRepository": "gitbook-on-github"
   }
 }

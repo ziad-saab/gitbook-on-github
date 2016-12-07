@@ -1,5 +1,9 @@
 # Youtube sample
 
+testing githubcontributors
+{% GitHubContributors %}
+{% endGitHubContributors %}
+
 test of the youtubex plugin
 
 {%youtube%}0Rnq1NpHdmw{%endyoutube%}

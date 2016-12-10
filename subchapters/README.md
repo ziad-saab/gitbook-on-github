@@ -2,7 +2,7 @@
 
 <!-- toc -->
 
-plain text
+toc tag is manually inserted above
 
 ## Sample h2 header
 

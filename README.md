@@ -16,5 +16,4 @@ by <a href="https://www.datavizforall.org/introduction/who.html">Jack Dougherty 
 and distributed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons BY-NC 4.0 International License</a>.
 You may freely share and modify this content for non-commercial purposes, with a source credit to <a href="http://DataVizForAll.org">http://DataVizForAll.org</a>.
 <br /><strong>Help improve this book:</strong> <a href="https://www.datavizforall.org/gitbook/improve.html">Select text and (+) symbol to comment</a> or <a href="https://github.com/JackDougherty/datavizforall">suggest edits on GitHub</a>.
-{{/iconOnly}}
 </div>
